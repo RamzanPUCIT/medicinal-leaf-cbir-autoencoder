@@ -57,3 +57,18 @@ Outputs are saved to:
 ---
 
 ## Repository Structure (Recommended)
+
+
+
+---
+
+## Future Work
+- Build a local **Streamlit UI** for image upload and retrieval
+- Improve retrieval using metric learning (contrastive / triplet loss)
+- Add deployment (Docker / Hugging Face Spaces)
+
+---
+
+## Author
+**Muhammad Ramzan** (MPhil AI, PUCIT – University of the Punjab Lahore)
+
