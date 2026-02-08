@@ -56,7 +56,7 @@ Outputs are saved to:
 
 ---
 
-## Repository Structure (Recommended)
+## Repository Structure
 
 
 
